@@ -77,7 +77,8 @@ nav.horizontal ul>li {
 }
 
 /* Topics Styles */
-/* I created a id for the unordered list with the list nested into it. I set the display to block and a width of 20%.  then floated it left with the margin-left set to 0% and margin-right set to 1.5% */
+/* I created a id for the unordered list with the list nested into it. I set the display to block and a width of 20%.  then floated it left with the margin-left set to 0% and margin-right set to 1.5% 
+Next, I created an id for the ul with an li nested into it. Then I set the margin, left and right, to 7.75%*/
 ul#topics>li {
     display: block;
     width: 20%;
